@@ -1,0 +1,2015 @@
+----------------------------------------------------------------------------------------------------
+BEGIN: MED SCENARIO: FEATURES = ['Occupancy', 'Speed']
+----------------------------------------------------------------------------------------------------
+Optimizing seed 0
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 1
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 2
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 3
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 39.5
+	Testing resolution parameter 39.0
+	Testing resolution parameter 39.5
+	Testing resolution parameter 39.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 4
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 5
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 41.5
+	Testing resolution parameter 42.0
+	Testing resolution parameter 42.5
+	Testing resolution parameter 42.0
+	Testing resolution parameter 42.5
+	Testing resolution parameter 42.0
+	Testing resolution parameter 42.5
+	Testing resolution parameter 42.0
+	Testing resolution parameter 41.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 41.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 6
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 7
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 39.5
+	Testing resolution parameter 39.0
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 8
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 39.5
+	Testing resolution parameter 39.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 9
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 10
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 11
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 12
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 41.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 39.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 13
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 14
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 15
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 39.5
+	Testing resolution parameter 39.0
+	Testing resolution parameter 39.5
+	Testing resolution parameter 39.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 16
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 41.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 17
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 39.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 18
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 19
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 20
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 21
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 39.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 22
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 23
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 24
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 25
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 26
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 40.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 27
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 28
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 29
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 40
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 39.5
+	Testing resolution parameter 40.0
+	Testing resolution parameter 40.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 41.5
+	Testing resolution parameter 41.0
+	Testing resolution parameter 41.5
+	Testing resolution parameter 42.0
+	Testing resolution parameter 42.5
+	Testing resolution parameter 43.0
+	Testing resolution parameter 42.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Mean of 30 Clustering Analyses on 10 Clusters
+----------------------------------------------------------------------------------------------------
+Mean of Partition qualities: 1497.129153543915
+Mean of Silhouette Scores: 0.025343039273002986
+Mean of Calinski-Harabasz Index: 190.5326809881172
+Mean of Davies-Bouldin Index: 8.17739021495928
+----------------------------------------------------------------------------------------------------
+Agglomerative clustering on 10 clusters: 
+Weighted speed variance of agglomerative based clusters: 1882.4819944457215
+Silhouette Score: -0.1609389381963012
+Calinski-Harabasz Index: 115.78851126997701
+Davies-Bouldin Index: 10.971827140021391
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+BEGIN: MED SCENARIO: FEATURES = ['Occupancy']
+----------------------------------------------------------------------------------------------------
+Optimizing seed 0
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 1
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 2
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 3
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 4
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 5
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 6
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 7
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 8
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 24.5
+	Testing resolution parameter 25.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 25.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 26.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 26.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 26.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 25.0
+	Testing resolution parameter 24.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 24.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 23.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 9
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 10
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 24.5
+	Testing resolution parameter 25.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 25.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 26.0
+	Testing resolution parameter 25.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 11
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 20.0
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 12
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 13
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 14
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 15
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 16
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 17
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 18
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 21.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 19
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 24.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 20
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 24.5
+	Testing resolution parameter 25.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 26.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 26.0
+	Testing resolution parameter 25.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 21
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 22
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 23
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 21.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 24
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 25
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 24.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 26
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 24.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 23.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 24.5
+	Testing resolution parameter 24.0
+	Testing resolution parameter 24.5
+	Testing resolution parameter 25.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 26.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 25.0
+	Testing resolution parameter 24.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 27
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+	Testing resolution parameter 23.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 28
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+	Testing resolution parameter 22.0
+	Testing resolution parameter 22.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 29
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 20
+	Testing resolution parameter 20.5
+	Testing resolution parameter 21.0
+	Testing resolution parameter 21.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Mean of 30 Clustering Analyses on 10 Clusters
+----------------------------------------------------------------------------------------------------
+Mean of Partition qualities: 482.2136373978214
+Mean of Silhouette Scores: 0.5215425542432067
+Mean of Calinski-Harabasz Index: 392.3251822263588
+Mean of Davies-Bouldin Index: 32.95493452395097
+----------------------------------------------------------------------------------------------------
+Agglomerative clustering on 10 clusters: 
+Weighted speed variance of agglomerative based clusters: 550.5336099047562
+Silhouette Score: 0.6324726347989941
+Calinski-Harabasz Index: 320.974967626554
+Davies-Bouldin Index: 15.999492535583958
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+BEGIN: MED SCENARIO: FEATURES = ['Speed']
+----------------------------------------------------------------------------------------------------
+Optimizing seed 0
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 1
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 18.5
+	Testing resolution parameter 18.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 2
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 3
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 4
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 5
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 18.5
+	Testing resolution parameter 18.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 6
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 13.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 7
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 8
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 9
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 18.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 13.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 10
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 11
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 12
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 13
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 14
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 15
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 18.5
+	Testing resolution parameter 18.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 16
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 17
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 18
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 19
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 20
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 21
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 22
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 23
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 24
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 25
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 18.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 18.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 26
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 27
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 18.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 28
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 29
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 18
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Mean of 30 Clustering Analyses on 10 Clusters
+----------------------------------------------------------------------------------------------------
+Mean of Partition qualities: 705.8418899751622
+Mean of Silhouette Scores: -0.2440144150584707
+Mean of Calinski-Harabasz Index: 212.66503934146823
+Mean of Davies-Bouldin Index: 90.73868726402615
+----------------------------------------------------------------------------------------------------
+Agglomerative clustering on 10 clusters: 
+Weighted speed variance of agglomerative based clusters: 1081.735518370846
+Silhouette Score: -0.3578353416599693
+Calinski-Harabasz Index: 78.23771033839647
+Davies-Bouldin Index: 8.898505205348672
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+BEGIN: HIGH SCENARIO: FEATURES = ['Occupancy', 'Speed']
+----------------------------------------------------------------------------------------------------
+Optimizing seed 0
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 1
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 30.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 2
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 30.5
+	Testing resolution parameter 30.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 3
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 4
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 5
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 28.5
+	Testing resolution parameter 28.0
+	Testing resolution parameter 27.5
+	Testing resolution parameter 28.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 6
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 30.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 28.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 28.5
+	Testing resolution parameter 28.0
+	Testing resolution parameter 27.5
+	Testing resolution parameter 27.0
+	Testing resolution parameter 26.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 7
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 8
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 9
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 10
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 11
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 28.5
+	Testing resolution parameter 29.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 12
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 30.5
+	Testing resolution parameter 31.0
+	Testing resolution parameter 30.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 29.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 30.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 28.5
+	Testing resolution parameter 28.0
+	Testing resolution parameter 27.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 13
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 14
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 15
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 30.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 16
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 28.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 17
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 18
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 30.5
+	Testing resolution parameter 30.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 19
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 20
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 21
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 22
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 23
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 24
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 30.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 25
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 30.5
+	Testing resolution parameter 31.0
+	Testing resolution parameter 30.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 28.5
+	Testing resolution parameter 28.0
+	Testing resolution parameter 27.5
+	Testing resolution parameter 27.0
+	Testing resolution parameter 27.5
+	Testing resolution parameter 27.0
+	Testing resolution parameter 26.5
+	Testing resolution parameter 26.0
+	Testing resolution parameter 25.5
+	Testing resolution parameter 25.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 26
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 29.5
+	Testing resolution parameter 30.0
+	Testing resolution parameter 29.5
+	Testing resolution parameter 29.0
+	Testing resolution parameter 28.5
+	Testing resolution parameter 28.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 27
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 28
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 30.5
+	Testing resolution parameter 30.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 29
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 30
+	Testing resolution parameter 29.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Mean of 30 Clustering Analyses on 10 Clusters
+----------------------------------------------------------------------------------------------------
+Mean of Partition qualities: 1560.1452270521618
+Mean of Silhouette Scores: -0.03847096117706848
+Mean of Calinski-Harabasz Index: 175.6507848293657
+Mean of Davies-Bouldin Index: 10.576892162245844
+----------------------------------------------------------------------------------------------------
+Agglomerative clustering on 10 clusters: 
+Weighted speed variance of agglomerative based clusters: 1780.7462045505476
+Silhouette Score: -0.10121092029540865
+Calinski-Harabasz Index: 132.30632788050937
+Davies-Bouldin Index: 15.570254525570018
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+BEGIN: HIGH SCENARIO: FEATURES = ['Occupancy']
+----------------------------------------------------------------------------------------------------
+Optimizing seed 0
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 1
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 2
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 3
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 4
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 5
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 6
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 14.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 7
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 8
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 17.5
+	Testing resolution parameter 17.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 9
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 10
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 11
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 12
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 13
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 14
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+	Testing resolution parameter 14.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 15
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 16
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 17
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 18
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 19
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 20
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 21
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 22
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 14.5
+	Testing resolution parameter 15.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 23
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 24
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 25
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 26
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 15.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 27
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 28
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 15.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 29
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 15
+	Testing resolution parameter 15.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 16.0
+	Testing resolution parameter 16.5
+	Testing resolution parameter 17.0
+	Testing resolution parameter 16.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Mean of 30 Clustering Analyses on 10 Clusters
+----------------------------------------------------------------------------------------------------
+Mean of Partition qualities: 579.9414473921319
+Mean of Silhouette Scores: 0.3281433933777709
+Mean of Calinski-Harabasz Index: 296.40027635012245
+Mean of Davies-Bouldin Index: 17.11732296637083
+----------------------------------------------------------------------------------------------------
+Agglomerative clustering on 10 clusters: 
+Weighted speed variance of agglomerative based clusters: 744.2132459373355
+Silhouette Score: 0.648665547863306
+Calinski-Harabasz Index: 192.3324685304614
+Davies-Bouldin Index: 50.863436044951484
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+BEGIN: HIGH SCENARIO: FEATURES = ['Speed']
+----------------------------------------------------------------------------------------------------
+Optimizing seed 0
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 1
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 2
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 3
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 4
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 5
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 6
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 10.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 7
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 8
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 9
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 10
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 11
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 12
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 13
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 14
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 15
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 16
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 14.0
+	Testing resolution parameter 13.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 17
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 18
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 19
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 20
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 21
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 22
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 23
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 24
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 25
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 26
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 27
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 13.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 28
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 10.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 11.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 10.5
+	Testing resolution parameter 11.0
+	Testing resolution parameter 11.5
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Optimizing seed 29
+----------------------------------------------------------------------------------------------------
+	Testing resolution parameter 12
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 12.0
+	Testing resolution parameter 12.5
+	Testing resolution parameter 13.0
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Mean of 30 Clustering Analyses on 10 Clusters
+----------------------------------------------------------------------------------------------------
+Mean of Partition qualities: 738.3808588513082
+Mean of Silhouette Scores: -0.26126414550582167
+Mean of Calinski-Harabasz Index: 195.49944804956309
+Mean of Davies-Bouldin Index: 32.75378365757017
+----------------------------------------------------------------------------------------------------
+Agglomerative clustering on 10 clusters: 
+Weighted speed variance of agglomerative based clusters: 857.4627731580624
+Silhouette Score: -0.26737864801631983
+Calinski-Harabasz Index: 144.03710168981945
+Davies-Bouldin Index: 25.174634138465986
+----------------------------------------------------------------------------------------------------
