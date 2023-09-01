@@ -6,6 +6,7 @@ from sklearn.cluster import AgglomerativeClustering
 from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bouldin_score
 from sklearn.preprocessing import StandardScaler
 import json
+import random
 
 features_all=['Occupancy', 'Speed']
 features_occ=['Occupancy']
@@ -273,7 +274,7 @@ def compare_and_return_clustering_result(node_attributes, partition, clusters: A
 
     return contig_results, agglom_results
 
-def manually_optimize_partition(edge_matrix, node_attributes, resolution_parameter, disconnect_penalty, n_iterations):
+def manually_optimize_partition_with_history(edge_matrix, node_attributes, resolution_parameter, disconnect_penalty, n_iterations):
     graph = ig.Graph.DataFrame(
         edges=edge_matrix, 
         directed=False, 
@@ -320,7 +321,7 @@ def manually_optimize_partition(edge_matrix, node_attributes, resolution_paramet
 
     return partition, optimiser, historic_raw_qualities, historic_qualities, historic_community_weights, historic_diffs
 
-def manually_optimize_partition_toward_cluster_size(graph, node_attributes, resolution_parameter, disconnect_penalty, seed, target_num_clusters, decay=.5):
+def manually_optimize_partition(graph, node_attributes, resolution_parameter, disconnect_penalty, seed, target_num_clusters, memberships=[], decay=.5):
     kwargs = {
         'node_attributes':node_attributes,
         'resolution_parameter':resolution_parameter,
@@ -339,22 +340,47 @@ def manually_optimize_partition_toward_cluster_size(graph, node_attributes, reso
             )   
             partition._update_internal_membership()
             continue_iteration = (diff_inc > 0)
-    print('-'* 100) 
-    print(f"Optimizing seed {seed}")
-    print('-'* 100)
-    while(len(partition) != target_num_clusters):
-        print(f"\tTesting resolution parameter {kwargs['resolution_parameter']}")
-        do_optimise(partition=partition, optimiser=optimiser)
-        if (len(partition) < target_num_clusters):
-            kwargs['resolution_parameter'] = round(kwargs['resolution_parameter'] - decay, 2)
-            partition = leidenalg.ContiguousConstrainedVertexPartition(graph, **kwargs)
-        elif (len(partition) > target_num_clusters):
-            kwargs['resolution_parameter'] = round(kwargs['resolution_parameter'] + decay, 2)
-            partition = leidenalg.ContiguousConstrainedVertexPartition(graph, **kwargs)
+        return partition
+
+    def optimise_towards_clusters(target_num_clusters, partition, optimiser, kwargs, memberships, decay):
+        seen_parameters = {}
+        while True:
+            new_parameter = kwargs['resolution_parameter']
+            print(f"\tOptimizing with resolution parameter {new_parameter}")
+            if memberships != []:
+                partition.set_membership(membership=memberships)
+            do_optimise(partition=partition, optimiser=optimiser)
+            seen_parameters[new_parameter] = seen_parameters.get(new_parameter, 0) + 1
+            
+            # Check if we have seen this new value 3 times already
+            if (seen_parameters[new_parameter] > 3):
+                decay *= 2 * random.random()
+
+            if (len(partition) < target_num_clusters):
+                new_parameter = new_parameter - decay
+            elif (len(partition) > target_num_clusters):
+                new_parameter = new_parameter + decay
+
+            if (len(partition) != target_num_clusters):
+                kwargs['resolution_parameter'] = new_parameter
+                partition = leidenalg.ContiguousConstrainedVertexPartition(graph, **kwargs)
+            else:
+                break
+
+        return partition
+
+    if (target_num_clusters > 0):
+        partition = optimise_towards_clusters(target_num_clusters=target_num_clusters, partition=partition, optimiser=optimiser, kwargs=kwargs, memberships=memberships, decay=decay)
+    else:
+        print(f"\tOptimizing with resolution parameter {kwargs['resolution_parameter']}")
+        if memberships != []:
+                partition.set_membership(membership=memberships)
+        partition = do_optimise(partition=partition, optimiser=optimiser)
+    
     print('-'* 100) 
     return partition
 
-def get_clustering_results_over_whole_timespace(target_num_clusters, demand_level, starting_parameter):
+def get_temporal_evolution_clustering_results(target_num_clusters, demand_level, starting_parameter, decay=.5, mode='seeded', list_of_params = []):
     _, _, _, _, _, connectedPairs, AvgOcc_med_NC, SMS_med_NC = load_data('barcelone', root='./Barcelona/Barcelone_data/', demand_level=demand_level)
     edge_matrix = pd.DataFrame()
     edge_matrix['Source'] = connectedPairs['upstream_index_order'].astype(int) - 1
@@ -366,35 +392,110 @@ def get_clustering_results_over_whole_timespace(target_num_clusters, demand_leve
         directed=False, 
     )
 
+    partition = None
     results = []
     step = 10
     for index in range(0, len(AvgOcc_med_NC.columns), step):
         print('-'*100)
-        print(f"CLUSTERING demand level {demand_level} time slice {AvgOcc_med_NC.columns[index]}")
+        print(f"CLUSTERING demand level {demand_level} time slice {AvgOcc_med_NC.columns[index]}, mode={mode}, K={target_num_clusters}")
         print('-'*100)
+
         cols = AvgOcc_med_NC.columns[index: index + step]
+
         occ = AvgOcc_med_NC[cols].mean(axis=1)
         speed = SMS_med_NC[cols].mean(axis=1)
         node_attributes = np.column_stack((occ.to_numpy(), speed.to_numpy()))
         X = scaler.fit_transform(node_attributes).tolist()
-        partition = manually_optimize_partition_toward_cluster_size(
+            
+        if partition == None:
+            memberships = []
+            param = starting_parameter
+            num_clusters_to_use = target_num_clusters
+        else:
+            param = partition.resolution_parameter
+            match mode:
+                case 'independent':
+                    memberships = []
+                    num_clusters_to_use = -1
+                case 'independent_fixed_k':
+                    memberships = []
+                    num_clusters_to_use = target_num_clusters
+                case 'seeded':
+                    memberships = partition.membership
+                    num_clusters_to_use = -1
+                case 'seeded_fixed_k':
+                    memberships = partition.membership
+                    num_clusters_to_use = target_num_clusters
+
+        if (len(list_of_params) > 0 and index // 10 < len(list_of_params)):
+            param = list_of_params[index // 10]
+
+        partition = manually_optimize_partition(
             graph=graph, 
             node_attributes=X, 
-            resolution_parameter=starting_parameter,
+            resolution_parameter=param,
             disconnect_penalty=0,
-            seed=0,
-            target_num_clusters=target_num_clusters,
+            seed=1,
+            target_num_clusters=num_clusters_to_use,
+            memberships=memberships,
+            decay=decay
         )
+
         results.append({
             'time':cols[0],
             'membership':partition.membership,
-            'quality':-(partition.quality() + (partition.resolution_parameter * len(partition)))
+            'quality':-(partition.quality() + (partition.resolution_parameter * len(partition))),
+            'num_clusters':len(partition)
         })
-        print(f"CLUSTERING DONE QUALITY: {results[-1]['quality']}")
+        print(f"CLUSTERING DONE QUALITY: {results[-1]['quality']}, K:{results[-1]['num_clusters']}")
 
-    with open(file=f'./outputs/barcelona_over_time_{demand_level}_{target_num_clusters}_clusters.json', mode='w') as f:
+    with open(file=f'./outputs/barcelona_temporal_{demand_level}_{mode}_param_{partition.resolution_parameter}.json', mode='w') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
         
+def get_temporal_ward_clustering_results(demand_level, target_num_clusters, features=['Occupancy','Speed']):
+    _, _, _, _, _, connectedPairs, AvgOcc_med_NC, SMS_med_NC = load_data('barcelone', root='./Barcelona/Barcelone_data/', demand_level=demand_level)
+    edge_matrix = pd.DataFrame()
+    edge_matrix['Source'] = connectedPairs['upstream_index_order'].astype(int) - 1
+    edge_matrix['Target'] = connectedPairs['downstream_index_order'].astype(int) - 1
+    scaler = StandardScaler()
+
+    results = []
+
+    step = 10
+    for index in range(0, len(AvgOcc_med_NC.columns), step):
+        print('-'*100)
+        print(f"CLUSTERING demand level {demand_level} time slice {AvgOcc_med_NC.columns[index]}, mode=Ward, K={target_num_clusters}")
+        print('-'*100)
+
+        cols = AvgOcc_med_NC.columns[index: index + step]
+
+        occ = AvgOcc_med_NC[cols].mean(axis=1)
+        speed = SMS_med_NC[cols].mean(axis=1)
+        node_attributes = np.column_stack((occ.to_numpy(), speed.to_numpy()))
+        X = scaler.fit_transform(node_attributes)
+        squared_features = X ** 2
+
+        clustering = perform_agglomerative_clustering(edge_matrix=edge_matrix, node_attributes=X, num_clusters=target_num_clusters)
+        
+        output_df = pd.DataFrame()
+        output_df['Occupancy'] = X[:, 0]
+        output_df['Speed'] = X[:, 1]
+        output_df['Squared_Occupancy'] = squared_features[:, 0]
+        output_df['Squared_Speed'] = squared_features[:, 1]       
+        output_df['Cluster_Agglomerative'] = clustering.labels_
+
+        quality = calculate_weighted_variance(output_df.groupby('Cluster_Agglomerative'), features=features)
+
+        results.append({
+            'time':cols[0],
+            'membership':clustering.labels_.tolist(),
+            'quality':quality,
+            'num_clusters':clustering.n_clusters_
+        })
+        print(f"CLUSTERING DONE QUALITY: {results[-1]['quality']}, K:{results[-1]['num_clusters']}")
+    
+    with open(file=f'./outputs/barcelona_temporal_{demand_level}_Ward_K_{target_num_clusters}.json', mode='w') as f:
+        json.dump(results, f, ensure_ascii=False, indent=4)
 
 
 def get_clustering_results_over_mean_of_timespace(target_num_clusters, starting_parameter, features, demand_level, decay=.5):
@@ -438,7 +539,7 @@ def get_clustering_results_over_mean_of_timespace(target_num_clusters, starting_
     )
 
     for (seed) in seeds:
-        partition = manually_optimize_partition_toward_cluster_size(
+        partition = manually_optimize_partition(
             graph=graph, 
             node_attributes=X, 
             resolution_parameter=starting_parameter,
@@ -510,7 +611,7 @@ def get_clustering_results_over_seeds(target_num_clusters, starting_parameter, f
     )
 
     for (seed) in seeds:
-        partition = manually_optimize_partition_toward_cluster_size(
+        partition = manually_optimize_partition(
             graph=graph, 
             node_attributes=X, 
             resolution_parameter=starting_parameter,
@@ -562,7 +663,7 @@ def get_specific_clustering_result(possible_params, features, demand_level, time
     results = {}
 
     for param in possible_params:
-        partition, optimiser, raw_quality, qualities, community_weights, diffs = manually_optimize_partition(
+        partition, optimiser, raw_quality, qualities, community_weights, diffs = manually_optimize_partition_with_history(
             edge_matrix=edge_matrix, 
             node_attributes=X, 
             resolution_parameter=param,
@@ -622,7 +723,7 @@ def benchmark_all_features_all_means():
         json.dump(results, f, ensure_ascii=False, indent=4)
 
 
-def benchmark_all_features_time_slices():
+def benchmark_all_features_on_specific_time_slice():
     print('-'*100)
     print(f"BEGIN: MED SCENARIO: FEATURES = {features_all}")
     get_clustering_results_over_seeds(target_num_clusters=10, starting_parameter=40, features=features_all, demand_level='Med', time_slice='02:58:30')
@@ -647,12 +748,11 @@ def benchmark_all_features_time_slices():
     print(f"BEGIN: HIGH SCENARIO: FEATURES = {features_speed}")
     get_clustering_results_over_seeds(target_num_clusters=10, starting_parameter=12, features=features_speed, demand_level='High', time_slice='04:00:00')
 
-def benchmark_single_feature(time):
+def benchmark_single_feature_single_time_slice(time):
     params = [49]
     clustering_result = get_specific_clustering_result(params, features_all, demand_level='Med', time_slice=time)
     results_map = clustering_result[params[0]]
     find_disconnected_communities(results_map)
 
 if __name__ == "__main__":
-    # benchmark_all_features_all_means()
-    benchmark_single_feature('02:58:30')    
+    get_temporal_evolution_clustering_results(target_num_clusters=5, demand_level='Med', starting_parameter=60, mode='independent_fixed_k')
