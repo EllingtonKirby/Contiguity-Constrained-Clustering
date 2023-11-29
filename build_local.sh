@@ -1,6 +1,6 @@
 CONDA_DIR=/Users/ellington/opt/anaconda3/envs/m1-stage-contig-constr-clustering/lib/
 TARGET_DYLIB_A=liblibleidenalg.1.dylib
-TARGET_DYLIB_B=liblibleidenalg.0.11.0.dylib
+TARGET_DYLIB_B=liblibleidenalg.1.0.0.dylib
 
 echo ""
 echo "REMOVING OLD DYLIB"
